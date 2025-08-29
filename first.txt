@@ -1,4 +1,4 @@
-At the start. This is a new first line.
+At the start. This is a new first line. added to end of the line
 
 This is my first file.
 It is a wonderful file.
